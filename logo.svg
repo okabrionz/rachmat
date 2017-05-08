@@ -1,0 +1,61 @@
+<svg width="512" height="512" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Logo Roti Rachmat - by Oka bRionZ</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-10 -115)" figma:type="canvas">
+<g id="logo" figma:type="frame">
+<g id="Group" figma:type="frame">
+<g id="Ellipse" figma:type="ellipse">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(10 115)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(10 115)" fill="#333333"/>
+</g>
+</g>
+<g id="Ellipse" figma:type="ellipse">
+<mask id="mask1_outline_ins">
+<use xlink:href="#path2_fill" fill="white" transform="translate(51 156)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path3_stroke_2x" transform="translate(51 156)" fill="#333333"/>
+</g>
+</g>
+</g>
+<g id="Star" figma:type="star">
+<use xlink:href="#path4_fill" transform="translate(255 129)" fill="#333333"/>
+</g>
+<g id="Star" figma:type="star">
+<use xlink:href="#path4_fill" transform="translate(25 350)" fill="#333333"/>
+</g>
+<g id="Star" figma:type="star">
+<use xlink:href="#path4_fill" transform="translate(486 350)" fill="#333333"/>
+</g>
+<g id="Star" figma:type="star">
+<use xlink:href="#path4_fill" transform="translate(434 511)" fill="#333333"/>
+</g>
+<g id="Star" figma:type="star">
+<use xlink:href="#path4_fill" transform="translate(434 210)" fill="#333333"/>
+</g>
+<g id="Star" figma:type="star">
+<use xlink:href="#path4_fill" transform="translate(80 511)" fill="#333333"/>
+</g>
+<g id="Star" figma:type="star">
+<use xlink:href="#path4_fill" transform="translate(80 210)" fill="#333333"/>
+</g>
+<g id="Star" figma:type="star">
+<use xlink:href="#path4_fill" transform="translate(255 593)" fill="#333333"/>
+</g>
+<g id="R" figma:type="text">
+<use xlink:href="#path5_fill" transform="translate(116 211)" fill="#333333"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 512 256C 512 397.385 397.385 512 256 512C 114.615 512 0 397.385 0 256C 0 114.615 114.615 0 256 0C 397.385 0 512 114.615 512 256Z"/>
+<path id="path1_stroke_2x" d="M 504 256C 504 392.967 392.967 504 256 504L 256 520C 401.803 520 520 401.803 520 256L 504 256ZM 256 504C 119.033 504 8 392.967 8 256L -8 256C -8 401.803 110.197 520 256 520L 256 504ZM 8 256C 8 119.033 119.033 8 256 8L 256 -8C 110.197 -8 -8 110.197 -8 256L 8 256ZM 256 8C 392.967 8 504 119.033 504 256L 520 256C 520 110.197 401.803 -8 256 -8L 256 8Z"/>
+<path id="path2_fill" d="M 430 215C 430 333.741 333.741 430 215 430C 96.2588 430 0 333.741 0 215C 0 96.2588 96.2588 0 215 0C 333.741 0 430 96.2588 430 215Z"/>
+<path id="path3_stroke_2x" d="M 422 215C 422 329.323 329.323 422 215 422L 215 438C 338.159 438 438 338.159 438 215L 422 215ZM 215 422C 100.677 422 8 329.323 8 215L -8 215C -8 338.159 91.8405 438 215 438L 215 422ZM 8 215C 8 100.677 100.677 8 215 8L 215 -8C 91.8405 -8 -8 91.8405 -8 215L 8 215ZM 215 8C 329.323 8 422 100.677 422 215L 438 215C 438 91.8405 338.159 -8 215 -8L 215 8Z"/>
+<path id="path4_fill" d="M 10.5 0L 12.8574 7.25532L 20.4861 7.25532L 14.3143 11.7394L 16.6717 18.9947L 10.5 14.5106L 4.32825 18.9947L 6.68565 11.7394L 0.513907 7.25532L 8.1426 7.25532L 10.5 0Z"/>
+<path id="path5_fill" d="M 107.617 80.9795L 107.617 179.075L 156.665 179.075C 163.387 179.075 169.71 177.822 175.635 175.315C 181.559 172.695 186.743 169.163 191.187 164.72C 195.63 160.276 199.105 155.092 201.611 149.168C 204.232 143.13 205.542 136.749 205.542 130.027C 205.542 123.305 204.232 116.982 201.611 111.058C 199.105 105.019 195.63 99.7783 191.187 95.335C 186.743 90.8916 181.559 87.4167 175.635 84.9102C 169.71 82.2897 163.387 80.9795 156.665 80.9795L 107.617 80.9795ZM 107.617 277L 58.5693 277L 58.5693 31.9316L 156.665 31.9316C 165.666 31.9316 174.325 33.1279 182.642 35.5205C 190.959 37.7992 198.706 41.1032 205.884 45.4326C 213.175 49.6481 219.784 54.7751 225.708 60.8135C 231.746 66.738 236.873 73.346 241.089 80.6377C 245.418 87.9294 248.722 95.7337 251.001 104.051C 253.394 112.368 254.59 121.027 254.59 130.027C 254.59 138.458 253.507 146.661 251.343 154.637C 249.292 162.612 246.273 170.188 242.285 177.366C 238.411 184.544 233.626 191.152 227.93 197.19C 222.233 203.229 215.853 208.47 208.789 212.913L 235.962 277L 183.838 277L 162.476 227.61L 107.617 227.952L 107.617 277Z"/>
+</defs>
+</svg>
